@@ -1,3 +1,10 @@
+#------------------------------------------------------------------------------#
+#                     Problem Set 3: Making Money with ML                      #
+#                           Data import and cleaning                           #     
+#------------------------------------------------------------------------------#
+
+#1.Preliminaries
+
 # Cargar pacman (contiene la función p_load)
 library(pacman) 
 library(stringr)
